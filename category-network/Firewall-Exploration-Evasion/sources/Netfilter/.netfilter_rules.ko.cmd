@@ -1,0 +1,1 @@
+cmd_/home/seed/Desktop/Netfilter/netfilter_rules.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/Desktop/Netfilter/netfilter_rules.ko /home/seed/Desktop/Netfilter/netfilter_rules.o /home/seed/Desktop/Netfilter/netfilter_rules.mod.o

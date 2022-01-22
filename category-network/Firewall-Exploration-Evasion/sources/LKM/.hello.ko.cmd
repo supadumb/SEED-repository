@@ -1,0 +1,1 @@
+cmd_/home/seed/Desktop/LKM/hello.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/Desktop/LKM/hello.ko /home/seed/Desktop/LKM/hello.o /home/seed/Desktop/LKM/hello.mod.o
